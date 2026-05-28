@@ -31,8 +31,11 @@ Welcome to my GitHub space! I build high-performance, production-ready web archi
 
 ## 📊 My GitHub Insights
 <p align="left">
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=shubh192806&show_icons=true&theme=tokyonight&count_private=true" alt="Shubham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh192806&theme=dark" alt="Shubham's Commit Streak" width="48%" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=header&text=Building%20with%20AI%20🚀&fontSize=30&animation=twinkling" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh192806&theme=dark" alt="Shubham's Commit Streak" width="100%" />
 </p>
 
 ### 🛠️ Core Technologies Verified Summary
