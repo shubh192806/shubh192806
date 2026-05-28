@@ -31,12 +31,15 @@ Welcome to my GitHub space! I build high-performance, production-ready web archi
 
 ## 📊 My GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh192806&show_icons=true&theme=dark&count_private=true" alt="Shubham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh192806&theme=dark" alt="Shubham's Commit Streak" width="48%" />
+## 📊 My GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh192806&theme=dark" alt="Shubham's Commit Streak" width="80%" />
 </p>
 
-### 🛠️ Core Technologies Verified Summary
+---
+
+### ⚙️ Core Technologies Verified Summary
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
