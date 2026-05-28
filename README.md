@@ -31,8 +31,6 @@ Welcome to my GitHub space! I build high-performance, production-ready web archi
 
 ## 📊 My GitHub Insights
 
-## 📊 My GitHub Insights
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh192806&theme=dark" alt="Shubham's Commit Streak" width="80%" />
 </p>
