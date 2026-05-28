@@ -32,8 +32,18 @@ Welcome to my GitHub space! I build high-performance, production-ready web archi
 ## 📊 My GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh192806&show_icons=true&theme=tokyonight&count_private=true" alt="Shubham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh192806&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh192806&show_icons=true&theme=dark&count_private=true" alt="Shubham's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh192806&theme=dark" alt="Shubham's Commit Streak" width="48%" />
+</p>
+
+### 🛠️ Core Technologies Verified Summary
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
