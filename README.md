@@ -31,13 +31,12 @@ Welcome to my GitHub space! I build high-performance, production-ready web archi
 
 ## 📊 My GitHub Insights
 
-* 🚀 **Full-Stack Development:** Specializing in scalable, component-driven web architectures using React and Next.js frameworks.
-* 🧠 **AI Integration:** Implementing active semantic vector pipelines using multi-dimensional embeddings to build context-aware systems.
-* 🗄️ **Database Engineering:** Designing and deploying secure relational architectures using PostgreSQL and relational cloud structures.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh192806&show_icons=true&theme=dark&count_private=true" alt="Shubham's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh192806&theme=dark" alt="Shubham's Commit Streak" width="48%" />
+</p>
 
----
-
-### ⚙️ Core Technologies Verified Summary
+### 🛠️ Core Technologies Verified Summary
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
